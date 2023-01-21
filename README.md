@@ -1,8 +1,8 @@
 ### Hi there 👋
-
+<a rel="me" href="https://blog.oliinyk.com/@dima">Mastodon</a>
 <!--
 **oliinykdm/oliinykdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a rel="me" href="https://blog.oliinyk.com/@dima">Mastodon</a>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
