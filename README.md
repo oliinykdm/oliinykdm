@@ -1,5 +1,5 @@
 ### Hi there 👋
-<a rel="me" href="https://blog.oliinyk.com/@dima">Mastodon</a>
+
 <!--
 **oliinykdm/oliinykdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
