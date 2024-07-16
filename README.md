@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Could you give me a second of your time?
+
+A second has passed, thank you!
+
 <!--
 **oliinykdm/oliinykdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
