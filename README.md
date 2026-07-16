@@ -6,7 +6,7 @@ A second has passed, thank you!
 
 —
 
-Dmytro Oliinyk · Web developer since 2007
+DOL · Dima · Dmytro Oliinyk · Web developer since 2007
 
 Mastodon → [@dima@dol.social](https://dol.social/@dima)
 
