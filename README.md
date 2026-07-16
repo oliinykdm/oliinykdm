@@ -9,6 +9,7 @@ A second has passed, thank you!
 Dmytro Oliinyk · Web developer since 2007
 
 Mastodon → [@dima@dol.social](https://dol.social/@dima)
+
 Mirror → [codeberg.org/oliinykdm](https://codeberg.org/oliinykdm)
 
 <!--
