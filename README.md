@@ -19,5 +19,5 @@ Mirror → [codeberg.org/oliinykdm](https://codeberg.org/oliinykdm)
   <a href="https://github.com/symfony/symfony"><img src="https://img.shields.io/badge/Symfony-contributor-000?logo=symfony&logoColor=white" alt="Symfony contributor"></a>
   <a href="https://github.com/mastodon/mastodon"><img src="https://img.shields.io/badge/Mastodon-contributor-6364FF?logo=mastodon&logoColor=white" alt="Mastodon contributor"></a>
   <a href="https://github.com/outline/outline"><img src="https://img.shields.io/badge/Outline-contributor-000" alt="Outline contributor"></a>
-  <a href="https://vivaldi.com"><img src="https://img.shields.io/badge/Vivaldi-Patron-EF3939?logo=vivaldi&logoColor=yellow" alt="Vivaldi Patron"></a>
+ <a href="https://vivaldi.com/donate/"><img src="https://login.vivaldi.net/profile/img/badge-level2-size34.png" alt="Vivaldi Patron" width="34" height="34"></a>
 </p>
