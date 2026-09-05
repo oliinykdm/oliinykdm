@@ -8,7 +8,7 @@ A second has passed, thank you!
 
 DOL · Dima · Dmytro Oliinyk · Web developer since 2007
 
-I run [dol.social](https://dol.social/@dima). Mirror on [Codeberg](https://codeberg.org/oliinykdm).
+I run [dol.social](https://dol.social/@dima). Code Mirror on [Codeberg](https://codeberg.org/oliinykdm).
 
 —
 
