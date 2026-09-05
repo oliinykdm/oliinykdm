@@ -12,7 +12,7 @@ Mastodon → [@dima@dol.social](https://dol.social/@dima)
 
 Mirror → [codeberg.org/oliinykdm](https://codeberg.org/oliinykdm)
 
--
+—
 
 <p>
   <a href="https://codeberg.org/fitpub"><img src="https://img.shields.io/badge/FitPub-member-1a1a1a" alt="FitPub member"></a>
