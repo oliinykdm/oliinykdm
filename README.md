@@ -8,9 +8,7 @@ A second has passed, thank you!
 
 DOL · Dima · Dmytro Oliinyk · Web developer since 2007
 
-Mastodon → [@dima@dol.social](https://dol.social/@dima)
-
-Mirror → [codeberg.org/oliinykdm](https://codeberg.org/oliinykdm)
+I run [dol.social](https://dol.social/@dima). Mirror on [Codeberg](https://codeberg.org/oliinykdm).
 
 —
 
