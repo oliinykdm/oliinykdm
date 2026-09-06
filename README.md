@@ -6,7 +6,7 @@ A second has passed, thank you!
 
 —
 
-DOL · Dima · Dmytro [Oliinyk](https://www.oliinyk.com) · Web developer since 2007
+[DOL](https://www.dol.ch) · Dima · Dmytro [Oliinyk](https://www.oliinyk.com) · Web developer since 2007
 
 I run [dol.social](https://dol.social/@dima). Code Mirror on [Codeberg](https://codeberg.org/oliinykdm).
 
