@@ -18,6 +18,6 @@ I run [dol.social](https://dol.social/@dima). Code Mirror on [Codeberg](https://
   <a href="https://github.com/mastodon/mastodon"><img src="https://img.shields.io/badge/Mastodon-contributor-6364FF?logo=mastodon&logoColor=white" alt="Mastodon contributor"></a>
   <a href="https://github.com/outline/outline"><img src="https://img.shields.io/badge/Outline-contributor-000" alt="Outline contributor"></a>
   
- <a href="https://vivaldi.com/donate/"><img src="https://img.shields.io/badge/Vivaldi-Patron-F0B018?logoColor=3a2a00" alt="Vivaldi Patron"></a>
+<a href="https://vivaldi.com/donate/"><img src="https://img.shields.io/badge/Vivaldi-Patron-F0B018?logo=vivaldi&logoColor=ff0000" alt="Vivaldi Patron"></a>
 <a href="https://signal.org/donate/"><img src="https://img.shields.io/badge/Signal-♡_Sponsor-ff1493?logo=signal&logoColor=white&labelColor=3A76F0" alt="Signal sponsor"></a>
 </p>
